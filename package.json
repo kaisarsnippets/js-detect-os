@@ -1,7 +1,7 @@
 {
   "name": "kc-detect-os",
   "version": "1.0.1",
-  "description": "[Browser] Detect operating system",
+  "description": "[browser] Detect operating system",
   "main": "detect-os.js",
   "repository": {
     "type": "git",
